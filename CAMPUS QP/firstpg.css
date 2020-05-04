@@ -1,0 +1,63 @@
+*{
+	padding:0px;
+	margin:auto;
+}
+.border{
+  width:800px;
+  height:2500px;
+  border:5px solid red;
+  background:black;
+}
+.det{
+  width:600px;
+  height:2000px;
+  border:1px solid black; 
+}
+.tit1{
+  width:300px;
+  height:30px;
+  border:2px solid red; 
+  
+}
+.infosys{
+  width:300px;
+  height:300px;
+  border:3px solid red; 
+  margin-top:100px;
+}
+.tit2{
+  width:300px;
+  height:50px;
+  border:2px solid red; 
+  
+}
+.tcs{
+  width:300px;
+  height:300px;
+  border:3px solid red; 
+  margin-top:100px;
+}
+.tit3{
+  width:300px;
+  height:30px;
+  border:2px solid red; 
+  
+}
+.wipro{
+  width:300px;
+  height:300px;
+  border:3px solid red; 
+  margin-top:100px;
+}
+.foot{
+  width:800px;
+  height:210px;
+  border:1px solid black; 
+  background:red;  
+}
+
+.footright{
+  width:550px;
+  height:200px;
+  border:1px solid red; 
+}

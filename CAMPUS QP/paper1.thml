@@ -1,0 +1,408 @@
+<html>
+<head>
+</head>
+<body>
+
+
+
+<p>1) A student scores 55% marks in 8 papers of 100 marks each. He scores 15% of his total marks in English. How much does he score in English?</p>
+
+
+<p>a) 55</p><p>
+
+b) 66</p><p>
+
+c) 77</p><p>
+
+d) 44</p><p>
+
+e) None of these</p><p>
+
+
+Answer: Option b</p><p>
+
+Given that a student scores 55% marks in English in 8 papers of 100 marks each.</p><p>
+
+Hence, his total marks = (55 x 800)/100 = 440</p><p>
+
+15% of his 440 marks = 440*(15/100) = 66 = Marks scored in English.</p><p>
+
+
+2) A software engineer creates a LAN game where an 8 digit code made up of 1,2,3,4,5,6, 7,8 has to be decided on as a universal code. There is a condition that each number has to be used and no number can be repeated. What is the probability that the first 4 digits of the code are even number?
+</p><p>
+
+a) 1/70</p><p>
+
+b) 1/840</p><p>
+
+c) 1/8</p><p>
+
+d) 1/40320</p><p>
+
+
+Answer: Option a
+</p><p>
+Total no of possible ways are 8!</p><p>
+
+The total number of possible ways to find even numbers at the last 4 digits are 4!</p><p>
+
+The total number of possible ways to find odd numbers at the last 4 digits are 4!</p><p>
+
+So, the probability that the first 4 digits of the code are even number =4!*4!/8! = 1/70</p><p>
+
+
+3) A car is 250 meters behind the bus. The car and bus are moving at a speed of 60 km/hr and 35 km/hr respectively. In what time will the car be ahead of the bus by 250 meters.
+
+</p><p>
+a)37 secs</p><p>
+
+b)48 secs</p><p>
+
+c)72 secs</p><p>
+
+d)68 secs</p><p>
+
+
+Answer: Option c</p><p>
+
+Relative speed = 60-35 = 25 Km/hr.</p><p>
+
+For the car to be ahead of the bus by 250 meters, it needs to cover = 250+250 =500m = 0.5kms.</p><p>
+
+Time taken to cover 0.5 km = 0.5/25 =1/50 hrs = 72 secs
+</p><p>
+
+4) Square of 2 more than a 2 digit number is multiplied and % by 2 and 5 respectively. If twice of the result is equal to 500 then find the number.
+</p><p>
+
+a) 45</p><p>
+
+b) 23
+</p><p>
+c) 87</p><p>
+
+d) 47</p><p>
+
+Answer:Option b</p><p>
+
+Let Y be the number</p><p>
+
+(((Y+2)^2) x 2 % 5) 2 = 500.</p><p>
+
+On solving this, you get Y = 23</p><p>
+
+
+5) A, B and C can do a piece of work in 30, 45, and 90 days. In how many days can A alone do the work if he is assisted by B and C on every 4th day?
+</p><p>
+
+a) 12 days
+</p><p>
+b) 24 days</p><p>
+
+c) 36 days
+</p><p>
+d) 48 days
+</p><p>
+
+Answer:Option b</p><p>
+
+A's 1 day work = 1/30.</p><p>
+
+A's 3 day work = 3/30</p><p>
+
+(A+B+C) 1 day work = (1/30+1/45+1/90) = 1/15</p><p>
+
+4 days work = 3/30+1/15 = 1/6.</p><p>
+
+Total work will be done in= 4*6 = 24 days</p><p>
+
+
+6) A starts a business with Rs.3500 and after 5 months, B joins with A as his partner. After a year, the profit is divided in the ratio 2:3. What is Bs contribution to the Capital?
+
+</p><p>
+a) 5000</p><p>
+
+b) 7500</p><p>
+
+c) 9000</p><p>
+
+d)9500
+</p><p>
+
+Answer:Option c</p><p>
+
+Let x be the capital invested by B.
+</p><p>
+Profit will be divided in the ratio of 2:3 = (12*3500) : 7x = 6000 : x.
+</p><p>
+2/3 = 6000/x</p><p>
+
+x = 9000</p><p>
+
+
+7) What will be the value of x^(1/2).x^(1/4).x^(1/8)............to infinity.
+</p><p>
+
+a) x^2</p><p>
+
+b) x</p><p>
+
+c) x^(3/2)</p><p>
+
+d) x^3</p><p>
+
+
+Answer:Option c</p><p>
+
+The term is x ^ (1/2 + 1/4 + 1/8 + ...). Sum of infinite series with first term 1/2 and common ratio of 1/2 is 1. So the answer is 'x'.
+</p><p>
+
+8) For the word SURITI, if you arrange the letters in dictionary order then what is its rank?
+</p><p>
+
+a) 234
+</p><p>
+b) 235
+</p><p>
+c) 236
+</p><p>
+d) 237
+
+</p><p>
+Answer:Option c</p><p>
+
+I = 5! =120</p><p>
+
+R= 5!/2 =60</p><p>
+
+SI = 4! =24</p><p>
+
+SR = 4!/2 = 12</p><p>
+
+ST = 4!/2 = 12</p><p>
+
+SUI = 3! = 6</p><p>
+
+= 234 Words
+</p><p>
+
+So, words with SUR begins from 235. SURIIT is the 235th word and SURITI is the 236rd word.
+
+</p><p>
+9) There are two sections in a question paper each contains five questions. A student has to answer 6 questions. The maximum number of questions that can be answered from any section is 4. How many ways he can attempt the paper?
+</p><p>
+
+a) 50
+</p><p>
+b) 100
+</p><p>
+c) 120
+</p><p>
+d) 200
+</p><p>
+
+Answer:Option d
+
+</p><p>
+Possible ways in which he can attempt 6 questions are
+</p><p>
+5C4*5C2 = 50
+</p><p>
+5C3*5C3 = 100
+</p><p>
+5C2*5C4 = 50
+</p><p>
+50+100+50 = 200
+</p><p>
+
+10) If 5 men take an hour to dig a ditch, then how long should 12 men take a dig to the ditch of the same type?
+</p><p>
+
+a) 25 min
+</p><p>
+b) 30 min
+</p><p>
+c) 28 min
+</p><p>
+d) 20 min
+
+</p><p>
+Answer:Option a
+</p><p>
+M1H1 = M2H2
+</p><p>
+5*60 = 12*H2
+</p><p>
+H2 = 25 min
+</p><p>
+
+11) Sameer plants 7225 plants so that there are as many rows as there are trees in a row. How many trees are there in a row?
+
+</p><p>
+(a) 75
+</p><p>
+(b) 95
+</p><p>
+(c) 85
+</p><p>
+(d) 65
+</p><p>
+
+Answer: c
+</p><p>
+
+12)If at 15% profit, the selling price of a dozen pencils is Rs.13.80; then what is the cost price of a pencil?
+</p><p>
+
+(a) 1.15
+</p><p>
+(b) 1
+</p><p>
+(c) 1.05
+</p><p>
+(d) 85
+</p><p>
+
+Answer: b
+</p><p>
+
+13)In an annual sale, there was a flat discount of 40% on all items. Kamal bought a pair of jeans for Rs. 480. What is labeled price of the pair of jeans.?
+</p><p>
+
+(a) 799
+</p><p>
+(b) 699
+</p><p>
+(c) 899
+</p><p>
+(d) 720
+
+</p><p>
+Answer: a
+</p><p>
+
+14) 2^288/2^n = 512
+
+</p><p>
+(a) 219
+</p><p>
+(b) 218
+</p><p>
+(c) 237
+</p><p>
+(d) none
+</p><p>
+
+Answer: d
+</p><p>
+
+15) If 10 base Cx=1, what is the value of X, if X NOT EQUAL to 0?
+</p><p>
+
+(a) 1
+</p><p>
+(b) 5
+</p><p>
+(c) 10
+</p><p>
+(d) 15
+</p><p>
+
+Answer: c
+
+</p><p>
+16) What is the relation between 14/15 and 34/70?
+</p><p>
+
+(a) Equal to
+</p><p>
+(b) Grater than
+</p><p>
+(c) Less than
+</p><p>
+(d) None of the above
+</p><p>
+
+Answer: b
+</p><p>
+
+17)Find the sum of two consecutive no? If the difference of squares of the two numbers is 19.
+</p><p>
+
+(a) 19
+</p><p>
+(b) 20
+</p><p>
+(c) 21
+</p><p>
+(d) 22
+</p><p>
+
+Answer: a
+</p><p>
+
+18) If 764xy is divisible by 90, then what will be the value of x+y?
+
+</p><p>
+(a) 2
+</p><p>
+(b) 3
+</p><p>
+(c) 1
+</p><p>
+(d) 5
+
+</p><p>
+Answer: c
+
+</p><p>
+19) If we permute 5 letters of the word mango, the number of permuted words with n at the second place are
+</p><p>
+
+(a) 20
+</p><p>
+(b) 24
+</p><p>
+(c) 25
+</p><p>
+(d) 30
+
+</p><p>
+Answer: b
+</p><p>
+
+20)A sum of money triples itself at compound interest in 3 years. In 9 years it will be:
+
+</p><p>
+(a) 6 times the principal
+</p><p>
+(b) 12 times the principal
+</p><p>
+(c) 18 times the principal
+</p><p>
+(d) 27 times the principal
+</p><p>
+
+Answer: d
+</p><p>
+
+Check out Wipro Placement Papers
+
+Strategies for Solving Wipro Aptitude Questions
+
+
+Use the options to solve Wipro Aptitude QuestionsIn many Wipro Aptitude Questions, you can analyze the options and easily eliminate those that can not be justified by the question.Do not calculate everything, use the options to identifyIf a complex calculation is required, there is a be a better way to do it. Because complex calculations are not tested in an aptitude test, your intelligence is one of them. Just plug the options to find the answer quickly.Use effective percentageThe effective percentage concept can help you significantly reduce your calculation time
+
+
+How to Prepare for Wipro Drive 2019
+
+
+With many Wipro candidates, it becomes very difficult to pass the exam due to the limited number of seats. So check the following tips and tricks to make your choice:
+
+Solve Wipro Placement Papers to learn about your strengths and weaknesses.Solve Wipro aptitude questions from previous years to test your knowledge, speed, and accuracy.Develop a good command of English grammar and communication by solving Wipro English questions.Stay confident during the technical round and practice Wipro Coding questionsPrepare yourself for the HR interviews and check out the article Wipro Interview QuestionsAspirants can take self-designed mock-tests as well as practice for sections and topics separately.
+
+
+
+WiproQuantitative Aptitude</p><p>
+</body>
+</html>
